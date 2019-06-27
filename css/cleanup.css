@@ -1,24 +1,24 @@
 /* write your override styles here */
 
-/* Tag 1 -> 10 */
-#wall .tag-1 { /* 110 */
+
+#wall .tag-1 { 
   display: none;
 }
 
-/* Tag 2 -> 200 */
-body #wall #tag-2 { /* 201 */
+
+body #wall #tag-2 { 
   display: none;
 }
 
-/* Tag 3 -> 211 */
 
-div#wall div#tag-3.slick, .wicked{ /*222*/
+
+div#wall div#tag-3.slick, .wicked{ 
   display: none;
 }
 
-/* Tag 4 -> 200 */
 
-#wall .parent #tag-4 { /* 210 */
+
+#wall .parent #tag-4 { 
   display: none;
 }
 
